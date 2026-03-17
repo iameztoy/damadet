@@ -1,4 +1,4 @@
-# PWTT Damage Detection App (v3)
+# PWTT Damage Detection App (v.0.3)
 
 ## Overview
 
