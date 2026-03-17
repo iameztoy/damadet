@@ -123,7 +123,7 @@ The app can display:
 - The `CUSTOM` footprint option is included as a reliable fallback.
 - Terrain flattening is optional and is generally more relevant in **rugged terrain** than in flat urban settings.
 
-## Version 3 highlights
+## Version 0.3 highlights
 
 - Interactive Google Earth Engine app interface
 - English legend and status panel
